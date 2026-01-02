@@ -3435,6 +3435,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+    },
+    {
+      "name": "BADTToken",
+      "symbol": "BADT",
+      "address": "0xD6B7BdE7172DA1A4cb98e7fCcAc5BEf53D3745dD",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xD6B7BdE7172DA1A4cb98e7fCcAc5BEf53D3745dD.png"
     }
   ]
 }
